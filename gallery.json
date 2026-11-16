@@ -1,0 +1,212 @@
+{
+  "title": "אלישבע - תמונות התכשיטים",
+  "intro": "מבטים כלליים ותקריבים מהמודלים.",
+  "sections": [
+    {
+      "id": "bracelet",
+      "title": "צמיד יהלומים",
+      "nav": "צמיד",
+      "items": [
+        {
+          "file": "01-whole-exterior-oblique.png",
+          "caption": "מראה כללי - אלכסון חיצוני"
+        },
+        {
+          "file": "02-whole-front-oblique.png",
+          "caption": "מראה כללי - חזית אלכסונית"
+        },
+        {
+          "file": "03-whole-top.png",
+          "caption": "מבט על - צורת הצמיד הסגור"
+        },
+        {
+          "file": "04-whole-low-front.png",
+          "caption": "מראה כללי - חזית נמוכה"
+        },
+        {
+          "file": "05-whole-clasp-side.png",
+          "caption": "מראה כללי - צד הסוגר"
+        },
+        {
+          "file": "06-whole-left-oblique.png",
+          "caption": "מראה כללי - צד שמאל"
+        },
+        {
+          "file": "07-whole-underside.png",
+          "caption": "מראה כללי - הצד הפנימי מלמטה"
+        },
+        {
+          "file": "08-whole-high-diagonal.png",
+          "caption": "מראה כללי - אלכסון גבוה"
+        },
+        {
+          "file": "09-setting-face.png",
+          "caption": "בית אבן - מבט ישר על השיבוץ"
+        },
+        {
+          "file": "10-setting-oblique.png",
+          "caption": "בית אבן - פאות היהלום והאבנים הקטנות"
+        },
+        {
+          "file": "11-setting-lateral-profile.png",
+          "caption": "בית אבן - הדופן המקורבת מהצד"
+        },
+        {
+          "file": "12-setting-joint-profile.png",
+          "caption": "בית אבן - מבט מציר החיבור"
+        },
+        {
+          "file": "13-setting-rear-oblique.png",
+          "caption": "בית אבן - הטיפה והגב הפתוח"
+        },
+        {
+          "file": "14-setting-rear-face.png",
+          "caption": "בית אבן - מבט ישר מהגב"
+        },
+        {
+          "file": "15-three-settings-face.png",
+          "caption": "שלוש יחידות - רצף האבנים והחיבורים"
+        },
+        {
+          "file": "16-three-settings-oblique.png",
+          "caption": "שלוש יחידות - מבט אלכסוני מקרוב"
+        },
+        {
+          "file": "17-three-settings-rear.png",
+          "caption": "שלוש יחידות - הצד הפנימי והצירים"
+        },
+        {
+          "file": "18-hinge-oblique.png",
+          "caption": "החיבור בין יחידות - מבט אלכסוני"
+        },
+        {
+          "file": "19-hinge-side.png",
+          "caption": "החיבור בין יחידות - מבט מהצד"
+        },
+        {
+          "file": "20-melee-row.png",
+          "caption": "שלוש האבנים הקטנות - תקריב השיבוץ"
+        },
+        {
+          "file": "21-center-diamond-facets.png",
+          "caption": "היהלום המרכזי - תקריב הפאות"
+        },
+        {
+          "file": "22-clasp-exterior.png",
+          "caption": "הסוגר ושני בתי האבן - מבט חיצוני"
+        },
+        {
+          "file": "23-clasp-interior.png",
+          "caption": "הסוגר - הצד הפנימי"
+        },
+        {
+          "file": "24-clasp-controls.png",
+          "caption": "הסוגר - הלחצן והאבטחה מקרוב"
+        }
+      ]
+    },
+    {
+      "id": "necklace",
+      "title": "שרשרת מוטות ויהלומים",
+      "nav": "שרשרת",
+      "items": [
+        {
+          "file": "01-front-three-quarter.png",
+          "caption": "מראה כללי - חזית אלכסונית"
+        },
+        {
+          "file": "02-front-straight.png",
+          "caption": "מראה כללי - חזית ישרה"
+        },
+        {
+          "file": "03-left-three-quarter.png",
+          "caption": "מראה כללי - אלכסון שמאל"
+        },
+        {
+          "file": "04-right-profile.png",
+          "caption": "מראה כללי - פרופיל ימין"
+        },
+        {
+          "file": "05-rear-three-quarter.png",
+          "caption": "מראה כללי - עורף וסוגר"
+        },
+        {
+          "file": "06-top-plan.png",
+          "caption": "מראה כללי - מבט על"
+        },
+        {
+          "file": "07-low-front.png",
+          "caption": "מראה כללי - מבט קדמי נמוך"
+        },
+        {
+          "file": "08-underside-overall.png",
+          "caption": "מראה כללי - הצד הפנימי"
+        },
+        {
+          "file": "09-front-three-units.png",
+          "caption": "שלושה מוטות ויהלומים - תקריב חזיתי"
+        },
+        {
+          "file": "10-diamond-face.png",
+          "caption": "יהלום מרכזי - מבט ישיר על הפאות"
+        },
+        {
+          "file": "11-diamond-oblique.png",
+          "caption": "יהלום ובית האבן - תקריב אלכסוני"
+        },
+        {
+          "file": "12-diamond-side.png",
+          "caption": "גובה היהלום והאחיזה - מבט צד"
+        },
+        {
+          "file": "13-setting-underside.png",
+          "caption": "גב בית האבן והפביליון"
+        },
+        {
+          "file": "14-joint-top-oblique.png",
+          "caption": "חיבור בין מוטות - מבט על אלכסוני"
+        },
+        {
+          "file": "15-joint-side.png",
+          "caption": "הציר השקוע - מבט צד מקרוב"
+        },
+        {
+          "file": "16-bar-and-diamond.png",
+          "caption": "מוט שלם והיהלום בקצהו"
+        },
+        {
+          "file": "17-bar-open-back.png",
+          "caption": "המוט והחיבור מהצד הפנימי"
+        },
+        {
+          "file": "18-shoulder-three-units.png",
+          "caption": "רצף היחידות באזור הצד"
+        },
+        {
+          "file": "19-rear-line.png",
+          "caption": "רצף האבנים באזור העורף"
+        },
+        {
+          "file": "20-clasp-outward.png",
+          "caption": "הסוגר המשולב - חזית מקרוב"
+        },
+        {
+          "file": "21-clasp-side.png",
+          "caption": "הסוגר והאבטחה - מבט צד"
+        },
+        {
+          "file": "22-clasp-inner.png",
+          "caption": "הסוגר הסגור - הצד הפנימי"
+        },
+        {
+          "file": "23-rear-diamond.png",
+          "caption": "היהלום שבסוגר - תקריב פאות"
+        },
+        {
+          "file": "24-opposite-side-detail.png",
+          "caption": "רצף מוטות בצד הנגדי - מבט אלכסוני"
+        }
+      ]
+    }
+  ]
+}
